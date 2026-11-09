@@ -1,8 +1,11 @@
 # Sistema de Gestión de Productos
 
 **Tarea programada – Programación II**
+
 Universidad Internacional San Isidro Labrador (UISIL) – Facultad de Ingeniería de Sistemas
+
 **Profesor:** Ing. Joshua Granados Loría
+
 **Estudiante:** Félix Lorenzo Araya Marín
 
 ## Descripción del sistema
