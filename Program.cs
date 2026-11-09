@@ -16,7 +16,7 @@ namespace TAREA2_FELIXLORENZOARAYAMARIN
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmCategorias());
+            Application.Run(new FrmProductos());
         }
     }
 }

@@ -220,14 +220,14 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvProductos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvProductos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvProductos.Location = new System.Drawing.Point(3, 428);
+            this.dgvProductos.Location = new System.Drawing.Point(-4, 417);
             this.dgvProductos.MultiSelect = false;
             this.dgvProductos.Name = "dgvProductos";
             this.dgvProductos.ReadOnly = true;
             this.dgvProductos.RowHeadersWidth = 51;
             this.dgvProductos.RowTemplate.Height = 24;
             this.dgvProductos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvProductos.Size = new System.Drawing.Size(801, 150);
+            this.dgvProductos.Size = new System.Drawing.Size(840, 302);
             this.dgvProductos.TabIndex = 17;
             // 
             // errProvider
@@ -238,7 +238,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 556);
+            this.ClientSize = new System.Drawing.Size(839, 708);
             this.Controls.Add(this.dgvProductos);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.btnLimpiar);

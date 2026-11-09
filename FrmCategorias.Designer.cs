@@ -150,13 +150,13 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvCategorias.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvCategorias.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvCategorias.Location = new System.Drawing.Point(12, 318);
+            this.dgvCategorias.Location = new System.Drawing.Point(-5, 318);
             this.dgvCategorias.MultiSelect = false;
             this.dgvCategorias.Name = "dgvCategorias";
             this.dgvCategorias.ReadOnly = true;
             this.dgvCategorias.RowHeadersWidth = 51;
             this.dgvCategorias.RowTemplate.Height = 24;
-            this.dgvCategorias.Size = new System.Drawing.Size(954, 208);
+            this.dgvCategorias.Size = new System.Drawing.Size(954, 356);
             this.dgvCategorias.TabIndex = 17;
             // 
             // errProvider
@@ -167,7 +167,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(978, 531);
+            this.ClientSize = new System.Drawing.Size(978, 664);
             this.Controls.Add(this.dgvCategorias);
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.btnEliminar);
