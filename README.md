@@ -74,7 +74,6 @@ Usa autenticación de Windows. Si se usa otro servidor, se debe cambiar el valor
 
 | Herramienta | Propósito | Parte del proyecto |
 |---|---|---|
-| Claude (Anthropic) | [Explicaciones, ejemplos de código y apoyo para organizar el proyecto] | [Script SQL, clases, capas de datos y lógica, eventos de los formularios] |
+| Claude (Anthropic) | Se reciben explicación y ejemplos de lo que puedo utilizar | Con el temas de las Clases y Lógica, se hacen las correcciones. |
 
-Se hizo uso de la Inteligencia Artificial, ya que con la creación de Bases de Datos y demás es complejo todo esto y ahora la IA Ayuda mucho. La parte de Gráfico hay que saber hacerlo ya que la inteligencia eso no lo hace, además de tener el conocimiento para modificar y saber donde se deben de cambiar las cosas para irle dando la forma que requiere. 
-Con la parte visual para el usuario. 
+Usé la inteligencia artificial como apoyo porque la creación de la base de datos y la programación por capas es compleja. Yo diseñé los formularios en Visual Studio, configuré los controles y sus nombres, probé cada funcionalidad, corregí errores y fui subiendo el avance con commits. Revisé el código generado para entenderlo y poder explicarlo en la defensa.
