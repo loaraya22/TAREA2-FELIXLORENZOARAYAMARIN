@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Categoria.cs" />
+    <Compile Include="Datos\Conexion.cs" />
     <Compile Include="FrmCategorias.cs">
       <SubType>Form</SubType>
     </Compile>
