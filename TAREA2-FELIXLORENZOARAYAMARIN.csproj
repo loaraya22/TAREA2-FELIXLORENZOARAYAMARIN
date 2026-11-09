@@ -49,6 +49,7 @@
     <Compile Include="Categoria.cs" />
     <Compile Include="Datos\CategoriaDatos.cs" />
     <Compile Include="Datos\Conexion.cs" />
+    <Compile Include="Datos\ProductoDatos.cs" />
     <Compile Include="FrmCategorias.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +63,7 @@
       <DependentUpon>FrmProductos.cs</DependentUpon>
     </Compile>
     <Compile Include="Logica\CategoriaLogica.cs" />
+    <Compile Include="Logica\ProductoLogica.cs" />
     <Compile Include="Producto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
