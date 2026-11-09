@@ -40,7 +40,7 @@
             this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 25.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitulo.Location = new System.Drawing.Point(51, 44);
             this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Size = new System.Drawing.Size(701, 52);
+            this.lblTitulo.Size = new System.Drawing.Size(694, 51);
             this.lblTitulo.TabIndex = 0;
             this.lblTitulo.Text = "Sistema de Gestion de Productos";
             // 
@@ -67,9 +67,9 @@
             // btnProbarConexion
             // 
             this.btnProbarConexion.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnProbarConexion.Location = new System.Drawing.Point(230, 326);
+            this.btnProbarConexion.Location = new System.Drawing.Point(170, 328);
             this.btnProbarConexion.Name = "btnProbarConexion";
-            this.btnProbarConexion.Size = new System.Drawing.Size(316, 75);
+            this.btnProbarConexion.Size = new System.Drawing.Size(457, 78);
             this.btnProbarConexion.TabIndex = 3;
             this.btnProbarConexion.Text = "Probar Conexión";
             this.btnProbarConexion.UseVisualStyleBackColor = true;
